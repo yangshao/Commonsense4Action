@@ -1,4 +1,3 @@
-# Commonsense4Action
 Data for [Commonsense Justification for Action Explanation](http://aclweb.org/anthology/D18-1283) by  Shaohua Yang, Qiaozi Gao, Sari Saba-Sadiya and 
 Joyce Y. Chai, EMNLP 2018.
 
@@ -10,10 +9,10 @@ Each sample object contains following properties:
 - attribute_dic: a dictionary contains attribute objects
 
 ## Citation
-@inproceedings{yang2018commonsense,
-  title={Commonsense Justification for Action Explanation},
-  author={Yang, Shaohua and Gao, Qiaozi and Sadiya, Sari and Chai, Joyce},
-  booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},
-  pages={2627--2637},
-  year={2018}
-}
+@inproceedings{yang2018commonsense,  
+  title={Commonsense Justification for Action Explanation},   
+  author={Yang, Shaohua and Gao, Qiaozi and Sadiya, Sari and Chai, Joyce},  
+  booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},  
+  pages={2627--2637},  
+  year={2018}  
+}  
